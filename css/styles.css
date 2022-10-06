@@ -276,6 +276,7 @@ ul {
   color: var(--second-text);
   font-size: 14px;
   line-height: 1.71;
+  width: 270px;
 }
 .main-list {
   padding-top: 94px;
